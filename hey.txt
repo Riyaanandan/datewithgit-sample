@@ -1,1 +1,2 @@
 to the world of git
+from scratch
